@@ -4,6 +4,25 @@ Data For Good
 **Domino Data Labs**
 ---
 ## Weekly Logs
+10/8/2017
+## Artifacts
+
+
+## Week Behind
+
+- We met with our company advisor, Lisa, and gave her the sprint presentation and the demo of our initial 'prototype'. She gave us useful insights which we will incorporate in our prototype.
+- We had a meeting with Sugreev, data scientist from non-profit "Thorn". We shared our idea and prototype with him(future user of our product). We got really valuable feedback from him.
+- We updated our Architecture Diagram to reflect stubs, ratholes, scaffolding and technologies as per the feedback of our TA
+- We made progress by designing the questions for our Adwords campaign to gauge the interest of users(data-scientists and non-profits willingness to sign up on our website)
+
+## Week Ahead
+
+- We have a scheduled meeting with Peter, co-founder of  DrivenData whose company does similar work as our hmw question, using the power of data science to drive positive social impact. We are looking forward to meeting him.
+- We will start development on the product.
+- We need to prepare for the upcoming Crit
+
+## Risks
+- We need to create a demoable version and test it with users
 
 10/1/2017
 ## Week Behind
