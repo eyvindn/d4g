@@ -11,6 +11,7 @@ Needed to be Added
 ## Week Behind
 
 - We held our Crit session and got valuable information on what we need to do to improve our product
+- We created a team logo
 - We updated our Crit Findings Log (Group B), Description, Core Product Loop, Feature Set of NCP, and Updated Architecture Diagram
 - We held off on the adwords as we are going to build our product first, so we have a site to go to for the adwords
 - We scheduled 2 meeting with our Group 3 Teacher (general help and sprint 2 overview)
