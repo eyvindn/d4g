@@ -6,23 +6,24 @@ Data For Good
 ## Weekly Logs
 10/8/2017
 ## Artifacts
-
+Needed to be Added
 
 ## Week Behind
 
-- We met with our company advisor, Lisa, and gave her the sprint presentation and the demo of our initial 'prototype'. She gave us useful insights which we will incorporate in our prototype.
-- We had a meeting with Sugreev, data scientist from non-profit "Thorn". We shared our idea and prototype with him(future user of our product). We got really valuable feedback from him.
-- We updated our Architecture Diagram to reflect stubs, ratholes, scaffolding and technologies as per the feedback of our TA
-- We made progress by designing the questions for our Adwords campaign to gauge the interest of users(data-scientists and non-profits willingness to sign up on our website)
+- We held our Crit session and got valuable information on what we need to do to improve our product
+- We updated our Crit Findings Log (Group B), Description, Core Product Loop, Feature Set of NCP, and Updated Architecture Diagram
+- We held off on the adwords as we are going to build our product first, so we have a site to go to for the adwords
+- We scheduled 2 meeting with our Group 3 Teacher (general help and sprint 2 overview)
 
 ## Week Ahead
 
-- We have a scheduled meeting with Peter, co-founder of  DrivenData whose company does similar work as our hmw question, using the power of data science to drive positive social impact. We are looking forward to meeting him.
+- Meet with Peter, co-founder of  DrivenData whose company does similar work as our hmw question, using the power of data science to drive positive social impact. We are looking forward to meeting him.  This is not yet confirmed as he was out of the office and are hoping to get this confirmed before the sprint
+- Complete NCP for Second Sprint with focus on discussion board and task product that interacts with the discussion board
 - We will start development on the product.
-- We need to prepare for the upcoming Crit
 
 ## Risks
 - We need to create a demoable version and test it with users
+- We do not have a meeting set up with Peter yet
 
 10/1/2017
 ## Week Behind
