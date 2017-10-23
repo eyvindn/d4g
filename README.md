@@ -1,10 +1,35 @@
-# d4g
-Data For Good
+# Data Without Borders
 
 **Domino Data Labs**
 ---
 ## Weekly Logs
-10/8/2017
+
+*10/22/2017*
+
+## Artifacts
+
+Sprint 2 presentation: https://drive.google.com/open?id=0B6-UAEl3jFIWWnktVXlDQlVmU1E
+
+## Week Behind
+
+- Scheduled delegate different tasks to teammates. (draw roadmap from now to our Sprint 3, schedule meetings with our potential users)
+- Presented at our product studio class. Some of the findings were noted and we are making a note of what we have to do for our next stage
+- We are trying to get back to basics and ask, 'Why they would use our products?" as to "How easily and accessible can our product be, so it's adaptable?"
+
+## Week Ahead
+
+- Scheduled meetings with NP and getting more DSs to research on
+- Email to one of the more prolific DS (Lutz Finger) and try to validate our idea
+- Prepare for the crit
+- Prepare for Tech Talk (go over our architecture diagram and find a narrative)
+
+## Risks
+
+- Realized our user demographic is not really represented in our class and it's hard to introduce something they are not familiar with, nor might not care about. So I think we may have to try different approaches to demo or tell the story
+
+
+*10/8/2017*
+
 ## Artifacts
 Needed to be Added
 
@@ -26,7 +51,8 @@ Needed to be Added
 - We need to create a demoable version and test it with users
 - We do not have a meeting set up with Peter yet
 
-10/1/2017
+*10/1/2017*
+
 ## Week Behind
 
 - We met with our company advisor, Lisa, and gave her the sprint presentation and the demo of our initial 'prototype'. She gave us useful insights which we will incorporate in our prototype.
@@ -43,7 +69,8 @@ Needed to be Added
 ## Risks
 - We need to create a demoable version and test it with users
 
-9/24/2017
+*9/24/2017*
+
 ## Artifacts
 
 Architecture Diagram: https://drive.google.com/file/d/0B2zTdezUtFHlX2h3d2h2enF6QjQ/view?usp=sharing
