@@ -66,3 +66,29 @@ Not at the moment.
 #### 11. Have you consulted with other companies/outside teams?
 
 No. 
+
+## 2. Victoria Dearborn- DS at GrowNYC (Non profit)
+
+#### 1. Do you currently employ any other statisticians/data scientists?
+no. I just look at numbers of items brought to the swap, taken from the swap, and who came
+	
+#### 2. What do you think is missing from your stop n swaps? Why hasn't been working?
+formalized structure to stop regulars from taking items; having consistent volunteer, having space for event and getting table, Trying to get the word out; Social media just started, but we do advertisement and flyering for marketing	
+
+#### 3. What would you ideally want to solve using data?
+I don't really know.  We only record to see who attended, weight of contribution and types of material
+
+#### 4. Do you have resources in order to “work with data” - i.e. money, storage, compute power, contacts, etc.?	
+no money, but we do have computer storage	
+#### 5. What do you use for storing data/records/etc (paper, excel, databases, etc.)?	
+no paper, all computers using excel sheets	
+
+#### 6. How clean is your data/organized. Is it consistent?
+Yes it is clean and consistent	
+		
+#### 7. What outside data or information do you regularly use or think could be useful to your mission (i.e. government records, studies, etc.)	
+We really only use our own information. We do use Google docs spreadsheet for community contacts though.
+
+#### 8. Would you be willing to share your data with Domino labs?(not necessarily public, but accessible to them)
+I would need to get permission, but I think we would be able to do so. 	
+
