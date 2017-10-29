@@ -3,6 +3,21 @@
 
 ## Weekly Logs
 
+*10/29/2017*
+**Week Behind**
+- Delegated different tasks to teammates, now in trello, with the roadmap from now to Sprint 3
+- Designed the pitch with 5E’s. Had a meeting with Heather to discuss our 5E’s
+- Had a productive meeting with Jason to discuss our ideas and got some constructive feedback on how to incentivize and demo our product
+- Scheduled meeting with Lisa to discuss our future roadmap
+
+**Week Ahead**
+- Prepare for the crit on Tuesday
+- Prepare 4 min product narrative to discuss with Heather for the next meeting. Practise with the  HowDidIDo tool.
+- Enhance the UI for our landing page and improve the aesthetics for the the discussion forum
+
+**Risks**
+- Need a better way to demo or tell the story
+
 *10/22/2017*
 ---
 **Artifacts**
