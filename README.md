@@ -4,6 +4,8 @@
 ## Weekly Logs
 
 *10/29/2017*
+---
+
 **Week Behind**
 - Delegated different tasks to teammates, now in trello, with the roadmap from now to Sprint 3
 - Designed the pitch with 5E’s. Had a meeting with Heather to discuss our 5E’s
