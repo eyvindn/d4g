@@ -16,9 +16,9 @@
 -Meet to overview status of road map
 -Work with data science teacher (Lutz Finger) to gain more incite on incentives
 -Complete team tasks on Trello board including:
----Flow from non graduation to graduation
----Google Vision API to find 'uuid' for organization and validate
----Figure out incentives
+--Flow from non graduation to graduation
+--Google Vision API to find 'uuid' for organization and validate
+--Figure out incentives
 
 **Risks**
 Need to change team name
