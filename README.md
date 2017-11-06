@@ -3,6 +3,26 @@
 
 ## Weekly Logs
 
+*11/5/2017*
+---
+
+**Week Behind**
+-Completed crit session and learned that we need to focus narrative to describe customers as non profits with data scientists
+-Met with our company advisor and went over road map in completing project
+-Set up road map to completing project
+-Set up AWS account to improve speed
+
+**Week Ahead**
+-Meet to overview status of road map
+-Work with data science teacher (Lutz Finger) to gain more incite on incentives
+-Complete team tasks on Trello board including:
+---Flow from non graduation to graduation
+---Google Vision API to find 'uuid' for organization and validate
+---Figure out incentives
+
+**Risks**
+Need to change team name
+
 *10/29/2017*
 ---
 
